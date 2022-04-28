@@ -1,7 +1,7 @@
 import React from "react";
 import { makeStyles } from "@material-ui/core";
 import { Link } from "react-scroll";
-import Mehdibha from "../../assets/images/Mehdibha"; 
+import Mehdibha from "../../assets/images/Mehdibha";  
 
 const Logo = ({ setHomeIsActive, ...rest }) => {
     const classes = useStyles();
